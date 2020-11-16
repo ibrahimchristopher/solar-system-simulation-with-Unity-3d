@@ -17,12 +17,20 @@
   
   go to www.unity.com to get started on installing unity
 ### installation:
-download project folder
+download my solar system simulation folder to view the source code
+
+download the game folder to play the game
   
-the entire project already has a build (for windows).
+the game already has a build (for windows).
   
-in the my solar system simulation folder, click on 
-  'solar system(windows)' shortcut
+in the game folder, click on 
+  'solar system(windows)' shortcut to run game
+  
+  or
+  
+  navigate to /game/builds/windows folder
+  
+  then click "solar system"
 
 
 ## Documentation
